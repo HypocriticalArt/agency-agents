@@ -390,9 +390,9 @@ Contributors who make significant contributions will be:
 ### For New Contributors
 
 - [README.md](README.md) - Overview and agent catalog
-- [Example: Frontend Developer](engineering/engineering-frontend-developer.md) - Well-structured agent example
-- [Example: Reddit Community Builder](marketing/marketing-reddit-community-builder.md) - Great personality example
-- [Example: Whimsy Injector](design/design-whimsy-injector.md) - Creative specialist example
+- [Example: Frontend Developer](skills/engineering/frontend-developer/SKILL.md) - Well-structured agent example
+- [Example: Reddit Community Builder](skills/marketing/reddit-community-builder/SKILL.md) - Great personality example
+- [Example: Whimsy Injector](skills/design/whimsy-injector/SKILL.md) - Creative specialist example
 
 ### For Agent Design
 
