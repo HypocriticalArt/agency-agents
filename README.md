@@ -553,7 +553,7 @@ The Agency works natively with Claude Code, and ships conversion + install scrip
 
 ### Supported Tools
 
-- **[CC Switch](https://github.com/farion1231/cc-switch)** — `skills/<category>/<slug>/SKILL.md` → `~/.cc-switch/skills/` (see [skills/README.md](skills/README.md))
+- **[CC Switch](https://github.com/farion1231/cc-switch)** — `skills/<category>/<slug>/SKILL.md` → `~/.cc-switch/skills/` (see [README.md](README.md))
 - **[Claude Code](https://claude.ai/code)** — native `.md` agents, no conversion needed → `~/.claude/agents/`
 - **[GitHub Copilot](https://github.com/copilot)** — native `.md` agents, no conversion needed → `~/.github/agents/` + `~/.copilot/agents/`
 - **[Antigravity](https://github.com/google-gemini/antigravity)** — `SKILL.md` per agent → `~/.gemini/antigravity/skills/`
