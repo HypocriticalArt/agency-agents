@@ -54,7 +54,7 @@ The `skills/` directory is a CC Switch–compatible skill repository. Each agent
 
 In CC Switch, add this repo with **Subdirectory** = `skills`, then install skills from the UI.
 
-See [skills/README.md](skills/README.md) for layout, frontmatter, and activation.
+See [README.md](README.md) for layout, frontmatter, and activation.
 
 ### Option 4: Use with Other Tools (GitHub Copilot, Antigravity, Gemini CLI, OpenCode, OpenClaw, Cursor, Aider, Windsurf, Kimi Code)
 
